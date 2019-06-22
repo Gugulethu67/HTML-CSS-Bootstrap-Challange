@@ -1,0 +1,87 @@
+body{
+    margin: 0px auto;
+    padding: 0px auto;
+    width:320px;
+    background-image: url(C:/Users/GUGULETHU/Downloads/Tinder-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+img{
+    display:block;
+    max-height: 100%;
+    max-width: 100%;
+    margin: 10px auto;
+    border-radius: 23px
+}
+.block{
+    margin:10px auto;
+    padding:10px auto;
+    border:1px hidden #000;
+}
+#theblock{
+    margin:25px;
+    padding:10px;
+    display: block;
+    background-color: #05447A;
+    border-radius: 20px;
+    text-align: center;
+    border:1px solid gray;
+}
+#s_block{
+    margin: 25px;
+    padding: 10px;
+    background-color: ghostwhite;
+    display: block;
+    border-radius:20px;
+    text-align: center;
+    border:1px solid gray;
+    color: gainsboro;
+}
+.logos img{
+    margin:5px;
+    padding:5px;
+    display:inline-block;
+    text-align: center;
+}
+#s_block{
+    font-weight: 100px;
+    
+}
+#title{
+    text-align: center;
+}
+#l_title{
+    text-align: center;
+}
+.logging{
+    text-align: center;
+    text-decoration: underline;
+    color:gray;
+}
+#The_div{
+    background-color: aliceblue;
+    width:400px;
+    margin:74px 500px 2px 0px;
+        
+}
+#The_div{
+    text-align: center
+}
+.st{
+    width:100px;
+    height: 45px
+    background-color: aliceblue;
+    box-shadow: 2px 2px 4px 2px rgba(40, 40, 40, 0.6);
+    margin-right: 20px;
+        
+}
+.nd{
+    width:100px;
+    height: 53px;
+    background-color: aliceblue;
+    box-shadow: 2px 2px 4px 2px rgba(40, 40 ,40 ,0.6)
+        
+}
+body div .block p{
+    color: gainsboro;
+}
